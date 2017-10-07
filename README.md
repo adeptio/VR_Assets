@@ -11,6 +11,11 @@
 - Pano Image
 - Videos
 [Small Crawling Spiders](https://pixabay.com/en/videos/spiders-crawling-insects-small-382/)
+[colorful spider](https://pixabay.com/en/videos/spider-arachnid-insect-octapod-7795/)
+[caterpillars](https://pixabay.com/en/videos/caterpillar-insect-danaus-gilippus-2104/)
+[spider eating](https://pixabay.com/en/videos/spider-arachnid-food-eating-9088/)
+[spider and web](https://pixabay.com/en/videos/spiders-arachnid-spider-web-cobweb-642/)
+[web](https://pixabay.com/en/videos/spiderweb-web-spider-attic-trap-6133/)
 - Sound Effects
 [Crawling Insects](http://soundbible.com/2113-Termites-and-Ants.html)
 [Wriggling Insects](https://www.zapsplat.com/music/larva-maggots-thousands-wriggling-movements/) Wetter sounding but may be usable
