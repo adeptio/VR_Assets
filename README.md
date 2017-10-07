@@ -60,6 +60,6 @@
 [flickr]: https://www.flickr.com/groups/360degrees/
 [pixabay]: https://pixabay.com/
 [soundbible]: http://soundbible.com/
-[zapsplat]: www.zapsplat.com
-[youtube]: www.youtube.com
-[ambientmixer]: www.ambient-mixer.com
+[zapsplat]: https://www.zapsplat.com/
+[youtube]: https://www.youtube.com/
+[ambientmixer]: https://www.ambient-mixer.com/
