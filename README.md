@@ -10,6 +10,7 @@
 ## Spiders
 - Pano Image
 - Videos
+[Small Crawling Spiders](https://pixabay.com/en/videos/spiders-crawling-insects-small-382/)
 - Sound Effects
 [Crawling Insects](http://soundbible.com/2113-Termites-and-Ants.html)
 [Wriggling Insects](https://www.zapsplat.com/music/larva-maggots-thousands-wriggling-movements/) Wetter sounding but may be usable
