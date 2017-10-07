@@ -20,7 +20,11 @@
 ## Technologies & Technical Challenges
 
 #### Backend:
+
 #### Frontend:
+
+- React
+- React-VR
 
 ### Assets
 
@@ -39,6 +43,11 @@
 
 ## Accomplished over the Weekend
 
+- Each team member read chapters 1-4 of [this][ebook] tutorial, then implemented the app in
+chapter 8 to get a sense of the React-VR structure and workflow.
+- Full sets of assets (Pano image/video, sound effects, normal video) were collected for four
+main phobias (spiders, heights, open water, and crowds).
+- Hosted a sample pano image on Github Pages to get a sense of load times.
 
 ## Group Members & Work Breakdown
 
@@ -63,3 +72,4 @@
 [zapsplat]: https://www.zapsplat.com/
 [youtube]: https://www.youtube.com/
 [ambientmixer]: https://www.ambient-mixer.com/
+[ebook]: https://medium.com/coding-artist/learn-react-vr-chapter-1-hello-virtual-world-202241c0cb63
