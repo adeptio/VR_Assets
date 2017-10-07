@@ -10,6 +10,12 @@
 
 #### Bonus Features
 
+## Design Documents
+
+### Wireframes
+
+- [Component Hierarchy][hierarchy]
+
 
 ## Technologies & Technical Challenges
 
@@ -40,3 +46,6 @@
 ### Day 5
 
 ### Day 6
+
+
+[hierarchy]: ./docs/hierarchy.md
