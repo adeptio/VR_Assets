@@ -27,7 +27,10 @@
 [Sound Effects](https://weather.ambient-mixer.com/high-wind-storm)
 [Decent Wind Sound](http://soundbible.com/1810-Wind.html)
 [Wind](https://www.zapsplat.com/music/strong-howling-wind-internal-recording/)
-
+[Pretty Good Wind](https://www.zapsplat.com/music/wind-blowing-through-cactus-plants-in-desert/) Not sure how one can tell there are cacti.
+[Less Intense Wind](https://www.zapsplat.com/music/strong-wind-blowing-across-anatolia-plain-turkey/)
+[Blizzard](https://www.zapsplat.com/music/strong-constant-blizzard-style-wind/) The light bird sounds might ruin this one, or make it better. Depends on the scene.
+[Mountaintop Wind](https://www.zapsplat.com/music/wind-cold-icy-howling-wind-sound-design/)
 
 ## The Dark
 - Pano Image
@@ -45,6 +48,16 @@
 [Pano Image](https://res.cloudinary.com/arcane-lab/image/upload/v1507335358/crowd_iqa8iz.jpg)
 - Sound Effects
 [Decent Crowd Sound](http://soundbible.com/2163-Party-Crowd.html)
+[Panicked Crowd](https://www.zapsplat.com/music/large-crowd-panic-shouting-and-screaming-slight-distance/)
+[Light Crowd(foreign)](https://www.zapsplat.com/music/istanbul-taksim-turkish-voices-crowd-atmosphere-people-passing-by-traffic/)
+[Protest Crowd](https://www.zapsplat.com/music/large-crowd-confrontation-with-police-shouting-and-whistling/)
+[Angry Crowd](https://www.zapsplat.com/music/angry-crowd-20-people-shouting-protesting/)
+[Relaxed Crowd](https://www.zapsplat.com/music/large-crowd-chatter-relaxed-outside/)
+[Crowd Chatter- Indoors](https://www.zapsplat.com/music/theatre-audience-chatter-during-intermission/)
+[Busy Bar](https://www.zapsplat.com/music/busy-large-bar-or-pub-ambience-lots-of-people-talking-2/)
+[Small Bar Chatter](https://www.zapsplat.com/music/barpub-small-ambience-busy-with-people-talking-and-laughing-1/)
+[Small Bar Chatter 2](https://www.zapsplat.com/music/barpub-small-ambience-busy-with-people-talking-and-laughing-2/)
+
 
 ## Peaceful Forest
 - Sound Effects
