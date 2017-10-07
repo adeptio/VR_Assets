@@ -6,6 +6,7 @@
 - Sound Effects
 
 
+
 ## Spiders
 - Pano Image
 - Videos
@@ -23,6 +24,7 @@
 ## Heights
 - Pano Image
 - Videos
+[Sky Diving](https://www.youtube.com/watch?v=S5XXsRuMPIU)
 - Sound Effects
 [Sound Effects](https://weather.ambient-mixer.com/high-wind-storm)
 [Decent Wind Sound](http://soundbible.com/1810-Wind.html)
@@ -37,6 +39,14 @@
 - Videos
 - Sound Effects
 
+## Open Water
+- Pano Image
+- Videos
+[Open Ocean](https://www.youtube.com/watch?v=hDKqgvUiU34)
+[Diving](https://www.youtube.com/watch?v=rV1-K-7AdSE)
+- Sound Effects
+[Distant Waves](https://www.zapsplat.com/music/distant-ocean-surf-waves/)
+[Gentle Waves](https://www.zapsplat.com/music/ocean-underwater-recording-of-gentle-waves-from-dock/)
 
 ## Small Spaces
 - Pano Image
@@ -62,3 +72,5 @@
 ## Peaceful Forest
 - Sound Effects
 [Rainforest](https://www.zapsplat.com/music/subtropical-rainforest-ambience-south-qld-australia-wind-in-trees-birds/)
+
+##
