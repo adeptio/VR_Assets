@@ -10,7 +10,6 @@
 - Pano Image
 - Videos
 - Sound Effects
-- Stuffffffff
 
 ## Heights
 - Pano Image
