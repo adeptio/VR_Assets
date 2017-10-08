@@ -23,7 +23,7 @@ File Structure:
     - `Pano`
     - `TitleLayout`
       - `Title`
-      - `Button`
+      - `Button` continues to Dashboard Scene
 
 
 ## Dashboard Scene
@@ -35,6 +35,7 @@ File Structure:
     - `Pano`
     - `DashboardLayout`
       - `DashboardButtons`
+      - `Button` enters a Phobia Scene
 
 ## Phobia Scene
 

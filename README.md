@@ -36,8 +36,7 @@ of the four phobias.
 
 ## Design Documents
 
-### Wireframes
-
+- [Wireframes][wireframes]
 - [Component Hierarchy][hierarchy]
 
 
@@ -89,6 +88,7 @@ Our group consists of three members: John Lugtu, Nicholas Evans, and Mike Brinkm
 
 
 [hierarchy]: ./docs/hierarchy.md
+[wireframes]: ./docs/wireframes.md
 [assets]: ./docs/ASSETS.md
 [flickr]: https://www.flickr.com/groups/360degrees/
 [pixabay]: https://pixabay.com/
