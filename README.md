@@ -57,7 +57,9 @@ of the four phobias.
 
 
 ### Hosting
-
+ - App must be bundled for production before deployment using `npm run bundle`. This creates an `index.bundle.js` file and `client.bundle.js` file in a build folder. These two files, along with the index.html and and locally stored static assets need to be uploaded to web host.
+ - First attempts at hosting with Heroku have been unsuccessful but it may be possible with some tweaks.
+ - Github Pages seems perfectly capable of hosting the site. [Test Host](https://github.com/NEvans85/vr-test-2) However large files (like 360 videos) will likely need to be hosted from another location to comply with GitHub's storage limitations.
 
 ## UX
 
