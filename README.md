@@ -20,7 +20,11 @@ them with a browser or VR headset.
 
 ## Functionality & MVP
 
-
+- We will gather a complete set of assets (Pano image/video, sound effects, normal video) for each
+of the four phobias.
+- We will combine those assets into an immersive VR experience for each phobia.
+- We will have a user interface that allows users to select a phobia from a main menu to enter that scene.  Once inside the scene, there will be a button for the user to return to main menu.
+- Production README
 
 #### Bonus Features
 
