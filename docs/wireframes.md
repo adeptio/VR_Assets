@@ -15,4 +15,4 @@
 
 ### Bonus Components
   - *`Intensity` will be a bonus feature*
-  - *`Zen Mode` will generate a new pano scene and tranquil sounds*
+  - *`Zen Mode` will generate a new pano image and tranquil sounds within the DashboardScene*
