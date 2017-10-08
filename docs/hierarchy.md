@@ -4,9 +4,9 @@ The app will follow a standard VR component hierarchy:
 
 File Structure:
 * `Components`
-  + `Scenes`
-    - `Layouts`
-      - `Elements`
+  + `Scenes` Each scene owns a Pano image
+    - `Layouts` Flexbox styling for the elements of a scene
+      - `Elements` Smaller components such as tables and buttons
 
 ## Functional Component hierarchy
 
@@ -24,3 +24,11 @@ File Structure:
     - `TitleLayout`
       - `Title`
       - `Button`
+
+
+## Dashboard
+
+
+## Phobia Scene
+
+There will be four of these scenes, each structured as follows:
