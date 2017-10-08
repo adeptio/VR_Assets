@@ -26,7 +26,7 @@ File Structure:
       - `Button`
 
 
-## Dashboard
+## Dashboard Scene
 
 
 ## Phobia Scene
