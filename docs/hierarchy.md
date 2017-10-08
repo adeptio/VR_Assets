@@ -25,7 +25,6 @@ File Structure:
       - `Title`
       - `Button` continues to Dashboard Scene
 
-
 ## Dashboard Scene
 
 * `DashboardScene`
@@ -40,3 +39,12 @@ File Structure:
 ## Phobia Scene
 
 There will be four of these scenes, each structured as follows:
+
+* `PhobiaScene`
+  + Route:
+  + State:
+  + Components:
+    - `Pano`
+    - `PhobiaLayout`
+      - `Phobia`
+      - `Button` back to Dashboard
