@@ -28,6 +28,13 @@ File Structure:
 
 ## Dashboard Scene
 
+* `DashboardScene`
+  + Route:
+  + State:
+  + Components:
+    - `Pano`
+    - `DashboardLayout`
+      - `DashboardButtons`
 
 ## Phobia Scene
 
