@@ -72,6 +72,8 @@ main phobias (spiders, heights, open water, and crowds).
 
 ## Group Members & Work Breakdown
 
+Our group consists of three members: John Lugtu, Nicholas Evans, and Mike Brinkman.
+
 ### Day 1
 
 ### Day 2
