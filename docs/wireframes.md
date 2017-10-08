@@ -10,6 +10,9 @@
 ![Phobia Scene](./wireframes/PhobiaScene.png)
 
 ### Notes
-  - *All Pano/VideoPano Components will have Sound Components*
-  - *Intensity will be a bonus feature*
-  - *Zen Mode will generate a new pano scene and tranquil sounds*
+  - *All `Pano/VideoPano` Components will have `Sound` Components*
+  - *`Return button` needs to be at an absolute position or click function so our users immediately exit if they're too terrified*
+
+### Bonus Components
+  - *`Intensity` will be a bonus feature*
+  - *`Zen Mode` will generate a new pano scene and tranquil sounds*
