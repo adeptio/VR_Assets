@@ -13,7 +13,7 @@ We intend to create an exposure therapy VR app that will immerse our user in fou
 
 This project involves:
 
-- Collecting pre-existing VR assets given our time constraint.
+- Collecting pre-existing VR assets. We will not create original assets given our time constraint.
 - Building a frontend interface where users can experience our VR scenes and navigate between
 them with a browser or VR headset.
 - Hosting our assets in a way that allows for a smooth UX.
