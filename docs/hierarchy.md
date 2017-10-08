@@ -20,4 +20,7 @@ File Structure:
   + Route: `/#/title`
   + State: none
   + Components:
+    - `Pano`
     - `TitleLayout`
+      - `Title`
+      - `Button`
