@@ -24,7 +24,7 @@
       - [ ] open water
   - Construct layouts
     + [ ] MainMenu layout
-    + [ ] In scene navigation layout. Users must have a way to adjust intensity or move from scene to scene.
+    + [ ] In scene navigation layout(s). Users must have a way to adjust intensity or move from scene to scene.
   - Construct reusable components
     + [ ] Button
     + [ ] Title
@@ -44,4 +44,6 @@
 ## Deployment
   - [ ] Secure domain name
   - [ ] Create deployment build
-  - [ ]
+  - [ ] Upload resources to cloud based media hosting
+  - [ ] Push Deployment Build to Github
+  - [ ] Host build via GitHub Pages (if no backend)
