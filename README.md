@@ -5,8 +5,15 @@
 
 ## Background & Overview
 
+[Exposure therapy][exposure] is a technique in behavior therapy that has existed since the 1950s and is thought to help treat anxiety disorders.  Exposure therapy involves exposing the patient to the source of anxiety or a representation of it without the intention to cause harm.  According to [this study][study], exposure therapy is the most successful known treatment for phobias.  
+
+Virtual Reality technology represents an incredible new tool for exposure therapy.  Through VR, the core principle of causing no harm to the patient is much more easily fulfilled.  Therapists also have more direct control over the intensity and type of anxiety source.  Cost of treatment is greatly reduced since anxiety sources are digital.  
+
+We intend to create an exposure therapy VR app that will immerse our user in four of the most common phobias: Agoraphobia (fear of crowds), Acrophobia (heights), Arachnophobia (spiders), and Aquaphobia (water).
 
 ## Functionality & MVP
+
+
 
 #### Bonus Features
 
@@ -76,3 +83,5 @@ main phobias (spiders, heights, open water, and crowds).
 [youtube]: https://www.youtube.com/
 [ambientmixer]: https://www.ambient-mixer.com/
 [ebook]: https://medium.com/coding-artist/learn-react-vr-chapter-1-hello-virtual-world-202241c0cb63
+[exposure]: https://en.wikipedia.org/wiki/Exposure_therapy
+[study]: https://en.wikipedia.org/wiki/Exposure_therapy#cite_note-17
