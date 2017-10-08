@@ -36,10 +36,10 @@
       + [ ] Gather Models
       + [ ] Implement Models
       + [ ] Animate Models
-    - Test scenes as they are built
-      + [ ] In desktop web browser
-      + [ ] In VR headset (cardboard)
-      + [ ] In VR headset (daydream)
+  - Test scenes as they are built
+    + [ ] In desktop web browser
+    + [ ] In VR headset (cardboard)
+    + [ ] In VR headset (daydream)
 
 ## Deployment
   - [ ] Secure domain name
