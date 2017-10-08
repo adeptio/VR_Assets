@@ -61,6 +61,8 @@ of the four phobias.
 
 ### Hosting
 
+### From web to VR headsets
+
 ## Accomplished over the Weekend
 
 - Each team member read chapters 1-4 of [this][ebook] tutorial, then implemented the app in
