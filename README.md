@@ -61,10 +61,6 @@ of the four phobias.
 
 ### Hosting
 
-
-## UX
-
-
 ## Accomplished over the Weekend
 
 - Each team member read chapters 1-4 of [this][ebook] tutorial, then implemented the app in
