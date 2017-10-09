@@ -1,6 +1,6 @@
-# WorkingName
+# Immerse
 
-### WorkingName is a virtual reality application to aid in exposure therapy.
+### Immerse is a virtual reality application to aid in exposure therapy.
 
 
 ## Background & Overview
