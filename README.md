@@ -69,22 +69,42 @@ chapter 8 to get a sense of the React-VR structure and workflow.
 - Full sets of assets (Pano image/video, sound effects, normal video) were collected for four
 main phobias (spiders, heights, open water, and crowds).
 - Hosted a sample pano image on Github Pages to get a sense of load times.
+- Build Wireframes (John)
 
 ## Group Members & Work Breakdown
 
 Our group consists of three members: John Lugtu, Nicholas Evans, and Mike Brinkman.
 
+Work separation for each scene with be one person developing assets and the other two working closely to write the code to implement the scene, incorporating assets as they are available. Roles will rotate day by day.
+
 ### Day 1
+- Name App
+- Title Scene (John)
+  + Title Layout
+- Dashboard Scene (Mike)
+  + Dashboard Layout
+- Start Building Soundscapes (Nick)
 
 ### Day 2
-
+- Crowd scene
+  + Gather Assets
+  + User Navigation Layout
+  + Soundscape
 ### Day 3
-
+- Spider Scene
+- Begin Water Scene
 ### Day 4
-
+- Finish Water
+- Heights Scene
 ### Day 5
-
+- Debug local version
+- Prepare for hosting
 ### Day 6
+- Buffer time for unforeseen difficulties
+- Add Bonus Features
+  1. Improve UX
+    + Scene Transitions
+  1. Support for headset
 
 
 [hierarchy]: ./docs/hierarchy.md
