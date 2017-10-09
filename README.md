@@ -29,12 +29,14 @@ of the four phobias.
 #### Bonus Features
 
 - Intensity: User or doctor can control intensity level of immersion.  This could take the form of louder sound, more renderings of the anxiety source, or more intense interactions with the anxiety source.
-- Proprietary Assets: With the correct hardware (360 camera, sound recorder), assets could be even more finely tuned for exposure therapy.   
+- Proprietary Assets: With the correct hardware (360 camera, sound recorder), assets could be even more finely tuned for exposure therapy.
+- Animations for scene transitions (fading in, sliding, etc.).
+- Compatibility with multiple VR headsets.
+- Countdown once a user selects a phobia scene to enter.  
 
 ## Design Documents
 
-### Wireframes
-
+- [Wireframes][wireframes]
 - [Component Hierarchy][hierarchy]
 
 
@@ -63,6 +65,7 @@ of the four phobias.
 
 ## UX
 
+### From web to VR headsets
 
 ## Accomplished over the Weekend
 
@@ -90,6 +93,7 @@ Our group consists of three members: John Lugtu, Nicholas Evans, and Mike Brinkm
 
 
 [hierarchy]: ./docs/hierarchy.md
+[wireframes]: ./docs/wireframes.md
 [assets]: ./docs/ASSETS.md
 [flickr]: https://www.flickr.com/groups/360degrees/
 [pixabay]: https://pixabay.com/
