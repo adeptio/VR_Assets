@@ -18,6 +18,7 @@ This project involves:
 them with a browser or VR headset.
 - Hosting our assets in a way that allows for a smooth UX.
 
+
 ## Functionality & MVP
 
 - We will gather a complete set of assets (Pano image/video, sound effects, normal video) for each
@@ -34,6 +35,7 @@ of the four phobias.
 - Compatibility with multiple VR headsets.
 - Countdown once a user selects a phobia scene to enter.  
 
+
 ## Design Documents
 
 - [Wireframes][wireframes]
@@ -43,6 +45,8 @@ of the four phobias.
 ## Technologies & Technical Challenges
 
 #### Backend:
+
+- None at this point, but will be revisited if necessary.  
 
 #### Frontend:
 
@@ -57,15 +61,11 @@ of the four phobias.
 - Video: [Pixabay][pixabay]
 - Sound effects: [Ambient Mixer][ambientmixer], [Soundbible][soundbible], [Zapsplat][zapsplat]
 
-
 ### Hosting
  - App must be bundled for production before deployment using `npm run bundle`. This creates an `index.bundle.js` file and `client.bundle.js` file in a build folder. These two files, along with the index.html and and locally stored static assets need to be uploaded to web host.
  - First attempts at hosting with Heroku have been unsuccessful but it may be possible with some tweaks.
  - Github Pages seems perfectly capable of hosting the site. [Test Host](https://github.com/NEvans85/vr-test-2) However large files (like 360 videos) will likely need to be hosted from another location to comply with GitHub's storage limitations.
 
-## UX
-
-### From web to VR headsets
 
 ## Accomplished over the Weekend
 
@@ -76,40 +76,52 @@ main phobias (spiders, heights, open water, and crowds).
 - Hosted a sample pano image on Github Pages to get a sense of load times.
 - Build Wireframes (John)
 
+
 ## Group Members & Work Breakdown
 
 Our group consists of three members: John Lugtu, Nicholas Evans, and Mike Brinkman.
 
-Work separation for each scene with be one person developing assets and the other two working closely to write the code to implement the scene, incorporating assets as they are available. Roles will rotate day by day.
+Work separation for each scene will be one person developing assets and the other two working closely to write the code to implement the scene, incorporating assets as they are available. Roles will rotate day by day.
 
 ### Day 1
 - Name App
 - Title Scene (John)
   + Title Layout
+    + Title element
 - Dashboard Scene (Mike)
   + Dashboard Layout
+    + Dashboard buttons element
+      + Button element
 - Start Building Soundscapes (Nick)
 
 ### Day 2
-- Crowd scene
-  + Gather Assets
-  + User Navigation Layout
-  + Soundscape
+- Index logic for next scene
+- Gather assets for crowd scene, including soundscape
+- PhobiaScene (Crowds will be first)
+  - Update DashboardScene
+    + PhobiaLayout
+      + PhobiaElement
+        + Update button element
+
 ### Day 3
 - Spider Scene
 - Begin Water Scene
+
 ### Day 4
 - Finish Water
 - Heights Scene
+
 ### Day 5
 - Debug local version
 - Prepare for hosting
+
 ### Day 6
 - Buffer time for unforeseen difficulties
 - Add Bonus Features
   1. Improve UX
-    + Scene Transitions
-  1. Support for headset
+    + Scene transitions animations
+  2. Support for headset
+  3. Intensity feature
 
 
 [hierarchy]: ./docs/hierarchy.md
